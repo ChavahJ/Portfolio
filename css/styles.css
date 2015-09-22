@@ -5,37 +5,37 @@
 #0095da - light blue
 **********/
 
-   .title-logo {
-      padding-top: 2rem;
-   }
+.title-logo {
+  padding-top: 2rem;
+}
 
-   .title-text {
-      color: #00427a;
-      font-size: 5rem;
-      padding-top: 1.5rem;
-   }
+.title-text {
+  color: #00427a;
+  font-size: 5rem;
+  padding-top: 1.5rem;
+}
 
-   .subtitle-text {
-      color: #0095da;
-   }
+.subtitle-text {
+  color: #0095da;
+}
 
-   .fake-nav {
-      background-color: #00427a;
-      padding-top: 1rem;
-      margin: 1rem 0;
-      font-weight: bold;
-   }
+.fake-nav {
+  background-color: #00427a;
+  padding-top: 1rem;
+  margin: 1rem 0;
+  font-weight: bold;
+}
 
-   .fake-nav a {
-      color: #fff;
-   }
+.fake-nav a {
+  color: #fff;
+}
 
-   .footer-hr {
-      border-top: 2px solid #71c5ef;
-   }
+.footer-hr {
+  border-top: 2px solid #71c5ef;
+}
 
-   .project-text {
-      font-size: 2rem;
-      text-transform: uppercase;
-      color: #0095da;
-   }
+.project-text {
+  font-size: 2rem;
+  text-transform: uppercase;
+  color: #0095da;
+}
