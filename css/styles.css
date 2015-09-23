@@ -5,6 +5,7 @@
 #0095da - light blue
 **********/
 
+/* Header */
 .title-logo {
   padding-top: 2rem;
 }
@@ -19,23 +20,30 @@
   color: #0095da;
 }
 
-.fake-nav {
+.my-nav {
   background-color: #00427a;
   padding-top: 1rem;
   margin: 1rem 0;
   font-weight: bold;
 }
 
-.fake-nav a {
+.white-link {
   color: #fff;
 }
 
-.footer-hr {
-  border-top: 2px solid #71c5ef;
+.white-link:hover {
+  color: #0095da;
+  background-color: #00427a;
 }
 
+/* Content */
 .project-text {
   font-size: 2rem;
   text-transform: uppercase;
   color: #0095da;
+}
+
+/* Footer */
+.footer-hr {
+  border-top: 2px solid #71c5ef;
 }
